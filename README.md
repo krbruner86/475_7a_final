@@ -5,4 +5,4 @@ A real-time particle simulator testing the performance in relation to time and t
 
 All the particles start out white and changes to the color of the sphere it impacts. If a particle impacts both spheres, it will then turn a magenta color.
 
-![](https://gfycat.com/recklessglamorousalaskanmalamute)
+![](results.gif)
